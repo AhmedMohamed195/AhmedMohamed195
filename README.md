@@ -57,7 +57,7 @@
 [![my email: anas.elgarhy.dev@gmail.com](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg "tara02664@gmail.com")](mailto:ahmedmohamed1332002@gmail.com
 )
   
-  [![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@ahmed-tarek-radwan-a142a0230")](https://www.linkedin.com/in/ahmed-mohamed-89228424ame/)
+  [![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@ahmed-mohamed-89228424ame/")](https://www.linkedin.com/in/ahmed-mohamed-89228424ame/)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamed195&Demo=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
