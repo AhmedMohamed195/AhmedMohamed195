@@ -54,7 +54,7 @@
 <!-- -->
 <!-- Social media links -->
 ### Connect with me:
-[![my email: anas.elgarhy.dev@gmail.com](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg "tara02664@gmail.com")](mailto:ahmedmohamed1332002@gmail.com
+[![my email: anas.elgarhy.dev@gmail.com](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg "ahmedmohamed1332002@gmail.com")](mailto:ahmedmohamed1332002@gmail.com
 )
   
   [![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@ahmed-mohamed-89228424ame/")](https://www.linkedin.com/in/ahmed-mohamed-89228424ame/)
